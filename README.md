@@ -9,7 +9,7 @@ source env/bin/activate
 
 -pip install django
 -pip install djangorestframework
--pip install pygments  # i'll be using this for the code highlighting
+-pip install pygments  
 
 ------------------------------------------------------------------------------
 #i'll need to add our new snippets app and the rest_framework app to INSTALLED_APPS. Let's edit the tutorial/settings.py file:
